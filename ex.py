@@ -1,6 +1,6 @@
-a=int(input("enter first number:"))
-b=int(input("enter second number:"))
-c=int(input("enter third number:"))
+a=10
+b=12
+c=13
 if a>b: 
     if a>c:
         print("first number is bigger")
